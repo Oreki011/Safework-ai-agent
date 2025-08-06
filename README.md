@@ -58,10 +58,6 @@ static/js/script.js – JavaScript file containing classification logic (AI logi
 
 templates/index.html – Optional: if using Flask or any backend (else, same as root index.html).
 
-
-> Note: If you're hosting this as a static website (e.g., GitHub Pages or Netlify), you don't need the /templates folder — just place index.html at the root.
-
-
 Example Layout (Tree View)
 
 Safe_Workplace_AI_Monitor/
