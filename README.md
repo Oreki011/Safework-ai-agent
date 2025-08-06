@@ -8,6 +8,7 @@ This project was developed as part of the IBM SkillsBuild AI Summer Certificate 
 1. Project Overview
 
 The Safe Workplace AI Monitor is designed to analyze written communication—such as chat messages or emails—in workplace settings. Its primary goal is to detect potentially harmful content, including gender-biased language and harassment, without compromising user privacy.
+Here is a Demo link:- https://cdn.botpress.cloud/webchat/v3.2/shareable.html?configUrl=https://files.bpcontent.cloud/2025/08/05/10/20250805101252-3XBHCNYK.json
 
 The tool helps promote gender equality, encourages healthier professional environments, and demonstrates a practical use of ethical AI.
 
