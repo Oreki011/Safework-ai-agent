@@ -28,10 +28,10 @@ The tool helps promote gender equality, encourages healthier professional enviro
 
  3. How It Works
 
-1. The user pastes a workplace message into the tool.  
-2. The AI logic (currently keyword-based) analyzes the message.  
-3. The message is classified based on pre-defined rules.  
-4. If gender bias or harassment is detected, the incident can be logged via a webhook for HR or administrative review.  
+  1. The user pastes a workplace message into the tool.  
+  2. The AI logic (currently keyword-based) analyzes the message.  
+  3. The message is classified based on pre-defined rules.  
+  4. If gender bias or harassment is detected, the incident can be logged via a webhook for HR or administrative review.  
 
 This system is entirely client-side and does not store or transmit user data unless explicitly configured.
 
