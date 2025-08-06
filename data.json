@@ -1,0 +1,16 @@
+
+Sample Log Data (data.json)
+
+```json
+[
+  {
+    "message": "You're too emotional to lead this team.",
+    "category": "Gender Bias",
+    "timestamp": "2025-08-06T10:00:00Z"
+  },
+  {
+    "message": "You're a complete idiot.",
+    "category": "Harassment",
+    "timestamp": "2025-08-06T11:00:00Z"
+  }
+]
