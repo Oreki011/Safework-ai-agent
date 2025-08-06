@@ -89,10 +89,8 @@ Example of a message flagged and logged anonymously:
     "message": "You're a complete idiot.",
     "category": "Harassment",
     "timestamp": "2025-08-06T11:00:00Z"
-  }
-]
-
-
+  }]
+```
 
 6. Tech Stack
 
